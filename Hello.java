@@ -1,4 +1,4 @@
-package project1;
+package HelloWorld;
 
 public class Hello {
 	
